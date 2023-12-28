@@ -4,7 +4,6 @@
 package test.java.javachessproject;
 
 import main.java.javachessproject.*;
-
 class AppTest {
     @Test void appHasAGreeting() {
         App classUnderTest = new App();
