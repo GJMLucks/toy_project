@@ -1,4 +1,3 @@
-package main.java;
 
 public class App {
     public String getGreeting() {
